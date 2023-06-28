@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ramble</string>
+    <string name="Name">Разработчик: Матолыгин З.И.РИБО-03-21</string>
+    <string name="login_title">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_sign_up">Don\'t have an account? Sign up</string>
+
+    <string name="register_title">Register</string>
+    <string name="sign_up_password">Password (Minimum 6 characters)</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register_sign_in">Already have an account? Sign in</string>
+
+    <string name="failed">Please fill out all fields.</string>
+
+    <string name="current_user">Current_user@mail.com</string>
+    <string name="logout">Log out</string>
+
+    <string name="search">Search…</string>
+
+    <string name="news_title">News title</string>
+    <string name="news_pub_date">15 Mar 2032 09:00:00 +0000</string>
+    <string name="news_description">News content Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="news_author">News Author</string>
+    <string name="read_full_article">Read full article</string>
+</resources>

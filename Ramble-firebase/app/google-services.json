@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617323260760",
+    "project_id": "ramble-204d8",
+    "storage_bucket": "ramble-204d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617323260760:android:5761c67b683b31924c132d",
+        "android_client_info": {
+          "package_name": "com.mirea.kt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617323260760-jelo9r6phc8o0ksb486gr8ltp5cq8p9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc1R0KrmJulsSAsri0x1EIQzl-MuTT7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617323260760-jelo9r6phc8o0ksb486gr8ltp5cq8p9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
